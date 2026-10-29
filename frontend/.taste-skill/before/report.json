@@ -1,0 +1,2781 @@
+{
+ "url": "http://localhost:5174/",
+ "at": "2026-10-20T15:16:35.244Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.66,
+    0.69,
+    0.72,
+    0.54,
+    0.73,
+    0.68
+   ],
+   "motion": {
+    "elements": 73,
+    "css": 6,
+    "transitions": 1,
+    "scripted": 66,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 5354,
+     "screens": 5.9,
+     "words": 478,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 37,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "✦",
+      "💡",
+      "🚀",
+      "✨",
+      "🔍"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Draw.Collaborate.Create.",
+     "words": 1,
+     "chars": 24,
+     "lines": 3,
+     "size": 88,
+     "vw": 6.1,
+     "font": "Syne",
+     "weight": 800,
+     "tracking": 0,
+     "leading": 1.1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.63,
+     "top": 172,
+     "tag": "div",
+     "kind": "heading"
+    },
+    "h1": null,
+    "headings": [
+     {
+      "text": "Draw.Collaborate.Create.",
+      "words": 1,
+      "chars": 24,
+      "lines": 3,
+      "size": 88,
+      "vw": 6.1,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.63,
+      "top": 172,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Everything your team needs",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 1481,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Up and running in 30 seconds",
+      "words": 6,
+      "chars": 28,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 2269,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 96,
+      "vw": 6.7,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.11,
+      "top": 2294,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 96,
+      "vw": 6.7,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.14,
+      "top": 2294,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 96,
+      "vw": 6.7,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.14,
+      "top": 2294,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Intelligence built in",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.8,
+      "top": 2732,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Shape Recognition",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 34,
+      "vw": 2.4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 2883,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Handwriting to Text",
+      "words": 3,
+      "chars": 19,
+      "lines": 1,
+      "size": 34,
+      "vw": 2.4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.39,
+      "top": 3201,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Common questions",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 48,
+      "vw": 3.3,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.5,
+      "top": 3654,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Start drawing together right now.",
+      "words": 5,
+      "chars": 33,
+      "lines": 3,
+      "size": 52,
+      "vw": 3.6,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.57,
+      "top": 4511,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 3,
+     "over2Lines": 2,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Karla",
+       "share": 0.85,
+       "mono": false
+      },
+      {
+       "family": "Syne",
+       "share": 0.14,
+       "mono": false
+      },
+      {
+       "family": "cursive",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      34,
+      48,
+      52,
+      88,
+      96
+     ],
+     "sizeCount": 16,
+     "notLoaded": [],
+     "body": {
+      "font": "Karla",
+      "size": 14,
+      "leading": 1.65,
+      "weight": 300,
+      "tracking": 0,
+      "contrast": 8.3
+     },
+     "measureChars": 74,
+     "max": {
+      "size": 96,
+      "vw": 6.7,
+      "font": "Syne",
+      "text": "01"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 11,
+     "microLabelShare": 0.039,
+     "microSamples": [
+      "✦ Now in public beta",
+      "Features",
+      "How it works",
+      "✦ AI Features",
+      "AI-Powered",
+      "OCR Engine"
+     ],
+     "upperShare": 0.04,
+     "centerShare": 0.18,
+     "smallText": 10
+    },
+    "eyebrows": [
+     {
+      "text": "✦ Now in public beta",
+      "above": "Draw.Collaborate.Create.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 120
+     },
+     {
+      "text": "Features",
+      "above": "Everything your team needs",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 1421
+     },
+     {
+      "text": "How it works",
+      "above": "Up and running in 30 seconds",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 2217
+     },
+     {
+      "text": "How it works",
+      "above": "01",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 2217
+     },
+     {
+      "text": "✦ AI Features",
+      "above": "Intelligence built in",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 2680
+     },
+     {
+      "text": "AI-Powered",
+      "above": "Shape Recognition",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 2831
+     },
+     {
+      "text": "OCR Engine",
+      "above": "Handwriting to Text",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 3149
+     },
+     {
+      "text": "FAQ",
+      "above": "Common questions",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 3602
+     },
+     {
+      "text": "FREE TO START",
+      "above": "Start drawing together right now.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 4457
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 96,
+      "top": 2294
+     },
+     {
+      "text": "02",
+      "size": 96,
+      "top": 2294
+     },
+     {
+      "text": "03",
+      "size": 96,
+      "top": 2294
+     }
+    ],
+    "color": {
+     "bodyBg": "#ebebeb",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f2f2f2",
+       "top": 767,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#e6e6e6",
+       "top": 2116,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#28457b",
+       "top": 4385,
+       "hsl": {
+        "h": 219,
+        "s": 0.51,
+        "l": 0.32
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#474747",
+       "share": 0.62
+      },
+      {
+       "color": "#0a0a0a",
+       "share": 0.22
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.05
+      },
+      {
+       "color": "#28457b",
+       "share": 0.04
+      },
+      {
+       "color": "#ebebeb",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#28457b",
+      "hsl": {
+       "h": 219,
+       "s": 0.51,
+       "l": 0.32
+      },
+      "fg": "#ebebeb"
+     },
+     "lowContrast": [
+      {
+       "text": "Create your first board",
+       "ratio": 2.3,
+       "need": 4.5,
+       "size": 16,
+       "fg": "#ebebeb",
+       "bg": "#cc9200"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": 12,
+     "height": 53,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Get Started",
+      "Start Drawing",
+      "See how it works"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 5,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div → rgba(0, 0, 0, 0.25) 0px 40px 80px -20px",
+      "div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px",
+      "div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px",
+      "div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 2,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 8,
+     "hairlineSamples": [
+      "div 846px",
+      "div 52px",
+      "section#how-it-works 1440px",
+      "div 488px",
+      "div 448px"
+     ],
+     "outlinedBoxes": 10,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 15,
+     "boxRadius": 16,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 5,
+     "fixed": true,
+     "height": 65,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "karla",
+     "syne"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 5354,
+    "margins": {
+     "left": 120,
+     "right": 177
+    },
+    "sections": [
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 0,
+      "height": 1321,
+      "words": 62,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Draw.",
+       "size": 88,
+       "tag": "span"
+      },
+      "left": 280,
+      "right": 287,
+      "textLeft": 280,
+      "textRight": 287,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#features",
+      "tag": "section",
+      "top": 1321,
+      "height": 795,
+      "words": 133,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Everything your team needs",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 186,
+      "textLeft": 144,
+      "textRight": 186,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#how-it-works",
+      "tag": "section",
+      "top": 2116,
+      "height": 464,
+      "words": 81,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "01",
+       "size": 96,
+       "tag": "div"
+      },
+      "left": 110,
+      "right": 130,
+      "textLeft": 110,
+      "textRight": 130,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 2580,
+      "height": 921,
+      "words": 105,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Intelligence built in",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 144,
+      "right": 169,
+      "textLeft": 144,
+      "textRight": 169,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#faq",
+      "tag": "section",
+      "top": 3501,
+      "height": 784,
+      "words": 39,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Common questions",
+       "size": 48,
+       "tag": "h2"
+      },
+      "left": 360,
+      "right": 361,
+      "textLeft": 360,
+      "textRight": 707,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 4285,
+      "height": 705,
+      "words": 24,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Start drawing together",
+       "size": 52,
+       "tag": "h2"
+      },
+      "left": 440,
+      "right": 440,
+      "textLeft": 440,
+      "textRight": 440,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 4990,
+      "height": 364,
+      "words": 34,
+      "media": 0,
+      "middle": 254,
+      "heading": null,
+      "left": 120,
+      "right": 227,
+      "textLeft": 120,
+      "textRight": 227,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 4176,
+      "height": 288
+     }
+    ],
+    "h1s": [],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 947,
+      "n": 6
+     },
+     {
+      "x": 144,
+      "n": 4
+     },
+     {
+      "x": 173,
+      "n": 4
+     },
+     {
+      "x": 564,
+      "n": 4
+     },
+     {
+      "x": 120,
+      "n": 3
+     },
+     {
+      "x": 533,
+      "n": 2
+     },
+     {
+      "x": 740,
+      "n": 2
+     },
+     {
+      "x": 360,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 14,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.14,
+    "voidBox": {
+     "x": 0,
+     "y": 120,
+     "w": 240,
+     "h": 780
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 6,
+   "filled": [
+    0.63,
+    0.76,
+    0.68,
+    0.54,
+    0.68,
+    0.72
+   ],
+   "motion": {
+    "elements": 71,
+    "css": 6,
+    "transitions": 1,
+    "scripted": 64,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 5480,
+     "screens": 5.4,
+     "words": 472,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 37,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "✦",
+      "💡",
+      "🚀",
+      "✨",
+      "🔍"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Draw.Collaborate.Create.",
+     "words": 1,
+     "chars": 24,
+     "lines": 3,
+     "size": 53.8,
+     "vw": 7,
+     "font": "Syne",
+     "weight": 800,
+     "tracking": 0,
+     "leading": 1.1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.94,
+     "top": 172,
+     "tag": "div",
+     "kind": "heading"
+    },
+    "h1": null,
+    "headings": [
+     {
+      "text": "Draw.Collaborate.Create.",
+      "words": 1,
+      "chars": 24,
+      "lines": 3,
+      "size": 53.8,
+      "vw": 7,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 172,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Everything your team needs",
+      "words": 4,
+      "chars": 26,
+      "lines": 1,
+      "size": 30.7,
+      "vw": 4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 1323,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Up and running in 30 seconds",
+      "words": 6,
+      "chars": 28,
+      "lines": 1,
+      "size": 30.7,
+      "vw": 4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 2332,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 96,
+      "vw": 12.5,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.2,
+      "top": 2337,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 96,
+      "vw": 12.5,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.26,
+      "top": 2337,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 96,
+      "vw": 12.5,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.27,
+      "top": 2532,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Intelligence built in",
+      "words": 3,
+      "chars": 21,
+      "lines": 1,
+      "size": 30.7,
+      "vw": 4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 2970,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Common questions",
+      "words": 2,
+      "chars": 16,
+      "lines": 1,
+      "size": 30.7,
+      "vw": 4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 3958,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Start drawing together right now.",
+      "words": 5,
+      "chars": 33,
+      "lines": 2,
+      "size": 30.7,
+      "vw": 4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.83,
+      "top": 4741,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 9,
+     "maxLines": 3,
+     "over2Lines": 1,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Karla",
+       "share": 0.85,
+       "mono": false
+      },
+      {
+       "family": "Syne",
+       "share": 0.14,
+       "mono": false
+      },
+      {
+       "family": "cursive",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      23,
+      31,
+      54,
+      96
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "Karla",
+      "size": 14,
+      "leading": 1.65,
+      "weight": 300,
+      "tracking": 0,
+      "contrast": 8.3
+     },
+     "measureChars": 45,
+     "max": {
+      "size": 96,
+      "vw": 12.5,
+      "font": "Syne",
+      "text": "01"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 11,
+     "microLabelShare": 0.039,
+     "microSamples": [
+      "✦ Now in public beta",
+      "Features",
+      "How it works",
+      "✦ AI Features",
+      "AI-Powered",
+      "OCR Engine"
+     ],
+     "upperShare": 0.04,
+     "centerShare": 0.18,
+     "smallText": 10
+    },
+    "eyebrows": [
+     {
+      "text": "✦ Now in public beta",
+      "above": "Draw.Collaborate.Create.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 120
+     },
+     {
+      "text": "Features",
+      "above": "Everything your team needs",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 1263
+     },
+     {
+      "text": "How it works",
+      "above": "Up and running in 30 seconds",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 2280
+     },
+     {
+      "text": "How it works",
+      "above": "01",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 2280
+     },
+     {
+      "text": "✦ AI Features",
+      "above": "Intelligence built in",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 2918
+     },
+     {
+      "text": "FAQ",
+      "above": "Common questions",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 3906
+     },
+     {
+      "text": "FREE TO START",
+      "above": "Start drawing together right now.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 4687
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 96,
+      "top": 2337
+     },
+     {
+      "text": "02",
+      "size": 96,
+      "top": 2337
+     },
+     {
+      "text": "03",
+      "size": 96,
+      "top": 2532
+     }
+    ],
+    "color": {
+     "bodyBg": "#ebebeb",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#f2f2f2",
+       "top": 611,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#e6e6e6",
+       "top": 2179,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.9
+       }
+      },
+      {
+       "color": "#28457b",
+       "top": 4615,
+       "hsl": {
+        "h": 219,
+        "s": 0.51,
+        "l": 0.32
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#474747",
+       "share": 0.62
+      },
+      {
+       "color": "#0a0a0a",
+       "share": 0.23
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.05
+      },
+      {
+       "color": "#28457b",
+       "share": 0.04
+      },
+      {
+       "color": "#ebebeb",
+       "share": 0.02
+      }
+     ],
+     "button": {
+      "bg": "#28457b",
+      "hsl": {
+       "h": 219,
+       "s": 0.51,
+       "l": 0.32
+      },
+      "fg": "#ebebeb"
+     },
+     "lowContrast": [
+      {
+       "text": "Create your first board",
+       "ratio": 2.3,
+       "need": 4.5,
+       "size": 16,
+       "fg": "#ebebeb",
+       "bg": "#cc9200"
+      }
+     ]
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": 12,
+     "height": 53,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Get Started",
+      "Start Drawing",
+      "See how it works"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 5,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div → rgba(0, 0, 0, 0.25) 0px 40px 80px -20px",
+      "div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px",
+      "div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px",
+      "div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 2,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 7,
+     "hairlineSamples": [
+      "div 666px",
+      "div 52px",
+      "section#how-it-works 768px",
+      "div 272px",
+      "section#faq 768px"
+     ],
+     "outlinedBoxes": 10,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 16,
+     "boxRadius": 16,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 1
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 65,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "karla",
+     "syne"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 5480,
+    "margins": {
+     "left": 24,
+     "right": 25
+    },
+    "sections": [
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 0,
+      "height": 1163,
+      "words": 61,
+      "media": 1,
+      "middle": 32,
+      "heading": {
+       "text": "Draw.",
+       "size": 54,
+       "tag": "span"
+      },
+      "left": 93,
+      "right": 41,
+      "textLeft": 93,
+      "textRight": 41,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#features",
+      "tag": "section",
+      "top": 1163,
+      "height": 1016,
+      "words": 133,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Everything your team needs",
+       "size": 31,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 55,
+      "textLeft": 24,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#how-it-works",
+      "tag": "section",
+      "top": 2179,
+      "height": 639,
+      "words": 81,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "01",
+       "size": 96,
+       "tag": "div"
+      },
+      "left": 14,
+      "right": 31,
+      "textLeft": 14,
+      "textRight": 31,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 2818,
+      "height": 987,
+      "words": 105,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Intelligence built in",
+       "size": 31,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 60,
+      "textLeft": 24,
+      "textRight": 71,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#faq",
+      "tag": "section",
+      "top": 3805,
+      "height": 709,
+      "words": 26,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Common questions",
+       "size": 31,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 25,
+      "textLeft": 24,
+      "textRight": 260,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 4515,
+      "height": 601,
+      "words": 24,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Start drawing together",
+       "size": 31,
+       "tag": "h2"
+      },
+      "left": 110,
+      "right": 110,
+      "textLeft": 110,
+      "textRight": 110,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 5116,
+      "height": 364,
+      "words": 34,
+      "media": 0,
+      "middle": 101,
+      "heading": null,
+      "left": 24,
+      "right": 35,
+      "textLeft": 24,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [],
+    "h1s": [],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 24,
+      "n": 10
+     },
+     {
+      "x": 53,
+      "n": 6
+     },
+     {
+      "x": 423,
+      "n": 6
+     },
+     {
+      "x": 404,
+      "n": 4
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 9,
+   "filled": [
+    0.57,
+    0.56,
+    0.64,
+    0.66,
+    0.57,
+    0.49,
+    0.72,
+    0.7,
+    0.82
+   ],
+   "motion": {
+    "elements": 75,
+    "css": 6,
+    "transitions": 1,
+    "scripted": 68,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 437,
+     "h": 946
+    },
+    "page": {
+     "height": 7396,
+     "screens": 7.8,
+     "words": 478,
+     "img": 0,
+     "video": 0,
+     "canvas": 0,
+     "svg": 38,
+     "sections": 6,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 0,
+     "uiAbuse": false,
+     "realPictures": 0,
+     "videoCount": 0,
+     "uiPictures": 0,
+     "pictureSamples": [],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [
+      "✦",
+      "💡",
+      "🚀",
+      "✨",
+      "✓",
+      "🔍"
+     ],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "Draw.Collaborate.Create.",
+     "words": 1,
+     "chars": 24,
+     "lines": 3,
+     "size": 42,
+     "vw": 9.6,
+     "font": "Syne",
+     "weight": 800,
+     "tracking": 0,
+     "leading": 1.1,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "center",
+     "position": "center",
+     "widthRatio": 0.78,
+     "top": 172,
+     "tag": "div",
+     "kind": "heading"
+    },
+    "h1": null,
+    "headings": [
+     {
+      "text": "Draw.Collaborate.Create.",
+      "words": 1,
+      "chars": 24,
+      "lines": 3,
+      "size": 42,
+      "vw": 9.6,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 172,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Everything your team needs",
+      "words": 4,
+      "chars": 26,
+      "lines": 3,
+      "size": 28,
+      "vw": 6.4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 1398,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Up and running in 30 seconds",
+      "words": 6,
+      "chars": 28,
+      "lines": 2,
+      "size": 28,
+      "vw": 6.4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 3239,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "01",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 96,
+      "vw": 22,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.35,
+      "top": 3274,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "02",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 96,
+      "vw": 22,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.45,
+      "top": 3468,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "03",
+      "words": 1,
+      "chars": 2,
+      "lines": 1,
+      "size": 96,
+      "vw": 22,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.47,
+      "top": 3663,
+      "tag": "div",
+      "kind": "heading"
+     },
+     {
+      "text": "Intelligence built in",
+      "words": 3,
+      "chars": 21,
+      "lines": 2,
+      "size": 28,
+      "vw": 6.4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 4101,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Shape Recognition",
+      "words": 2,
+      "chars": 17,
+      "lines": 1,
+      "size": 22,
+      "vw": 5,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 4259,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Handwriting to Text",
+      "words": 3,
+      "chars": 19,
+      "lines": 2,
+      "size": 22,
+      "vw": 5,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.5,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 4833,
+      "tag": "h3",
+      "kind": "heading"
+     },
+     {
+      "text": "Common questions",
+      "words": 2,
+      "chars": 16,
+      "lines": 2,
+      "size": 28,
+      "vw": 6.4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.78,
+      "top": 5640,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Start drawing together right now.",
+      "words": 5,
+      "chars": 33,
+      "lines": 4,
+      "size": 28,
+      "vw": 6.4,
+      "font": "Syne",
+      "weight": 800,
+      "tracking": 0,
+      "leading": 1.1,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "center",
+      "position": "center",
+      "widthRatio": 0.6,
+      "top": 6473,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 11,
+     "maxLines": 4,
+     "over2Lines": 3,
+     "statements": 0,
+     "centered": 2,
+     "medianWords": 3,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Karla",
+       "share": 0.85,
+       "mono": false
+      },
+      {
+       "family": "Syne",
+       "share": 0.14,
+       "mono": false
+      },
+      {
+       "family": "cursive",
+       "share": 0.01,
+       "mono": false
+      }
+     ],
+     "familyCount": 3,
+     "sizes": [
+      10,
+      11,
+      12,
+      13,
+      14,
+      15,
+      16,
+      17,
+      18,
+      19,
+      20,
+      22,
+      28,
+      42,
+      96
+     ],
+     "sizeCount": 15,
+     "notLoaded": [],
+     "body": {
+      "font": "Karla",
+      "size": 14,
+      "leading": 1.65,
+      "weight": 300,
+      "tracking": 0,
+      "contrast": 8.3
+     },
+     "measureChars": 46,
+     "max": {
+      "size": 96,
+      "vw": 22,
+      "font": "Syne",
+      "text": "01"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 11,
+     "microLabelShare": 0.039,
+     "microSamples": [
+      "✦ Now in public beta",
+      "Features",
+      "How it works",
+      "✦ AI Features",
+      "AI-Powered",
+      "OCR Engine"
+     ],
+     "upperShare": 0.04,
+     "centerShare": 0.19,
+     "smallText": 12
+    },
+    "eyebrows": [
+     {
+      "text": "✦ Now in public beta",
+      "above": "Draw.Collaborate.Create.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 120
+     },
+     {
+      "text": "Features",
+      "above": "Everything your team needs",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 1338
+     },
+     {
+      "text": "How it works",
+      "above": "Up and running in 30 seconds",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 3187
+     },
+     {
+      "text": "How it works",
+      "above": "01",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 3187
+     },
+     {
+      "text": "✦ AI Features",
+      "above": "Intelligence built in",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 4049
+     },
+     {
+      "text": "FAQ",
+      "above": "Common questions",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 5588
+     },
+     {
+      "text": "FREE TO START",
+      "above": "Start drawing together right now.",
+      "upper": true,
+      "tracked": true,
+      "mono": false,
+      "pill": true,
+      "size": 12,
+      "top": 6419
+     }
+    ],
+    "numbered": [
+     {
+      "text": "01",
+      "size": 96,
+      "top": 3274
+     },
+     {
+      "text": "02",
+      "size": 96,
+      "top": 3468
+     },
+     {
+      "text": "03",
+      "size": 96,
+      "top": 3663
+     }
+    ],
+    "color": {
+     "bodyBg": "#ebebeb",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 0.92
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#28457b",
+       "top": 124,
+       "hsl": {
+        "h": 219,
+        "s": 0.51,
+        "l": 0.32
+       }
+      },
+      {
+       "color": "#f2f2f2",
+       "top": 689,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#e6e6e6",
+       "top": 3086,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.9
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#474747",
+       "share": 0.61
+      },
+      {
+       "color": "#0a0a0a",
+       "share": 0.22
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.05
+      },
+      {
+       "color": "#28457b",
+       "share": 0.04
+      },
+      {
+       "color": "#ebebeb",
+       "share": 0.03
+      }
+     ],
+     "button": {
+      "bg": "#28457b",
+      "hsl": {
+       "h": 219,
+       "s": 0.51,
+       "l": 0.32
+      },
+      "fg": "#ebebeb"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 4,
+     "inHero": 3,
+     "radius": 12,
+     "height": 43,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Get Started",
+      "Start Drawing",
+      "See how it works"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 6,
+     "shadowOverlay": 0,
+     "shadowSamples": [
+      "div → rgba(0, 0, 0, 0.25) 0px 40px 80px -20px",
+      "div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px",
+      "div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px",
+      "div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px"
+     ],
+     "gradients": 0,
+     "scrims": 2,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 7,
+     "hairlineSamples": [
+      "div 288px",
+      "div 52px",
+      "section#how-it-works 390px",
+      "div 274px",
+      "section#faq 390px"
+     ],
+     "outlinedBoxes": 11,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 17,
+     "boxRadius": 16,
+     "squareMedia": 1,
+     "roundedMedia": 0,
+     "mediaRadius": 0,
+     "textShadow": 0,
+     "cardRows": []
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 1
+     },
+     {
+      "type": "svg",
+      "ratio": 0.13
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": true,
+     "height": 65,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "karla",
+     "syne"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 437,
+     "h": 946
+    },
+    "pageH": 7396,
+    "margins": {
+     "left": 14,
+     "right": 1
+    },
+    "sections": [
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 0,
+      "height": 1238,
+      "words": 67,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Draw.",
+       "size": 42,
+       "tag": "span"
+      },
+      "left": 24,
+      "right": 0,
+      "textLeft": 24,
+      "textRight": -69,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div",
+      "tag": "div",
+      "top": 1338,
+      "height": 224,
+      "words": 13,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Everything your team needs",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 107,
+      "textLeft": 24,
+      "textRight": 107,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div",
+      "tag": "div",
+      "top": 1562,
+      "height": 1425,
+      "words": 120,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Real-time Collaboration",
+       "size": 17,
+       "tag": "h3"
+      },
+      "left": 53,
+      "right": 100,
+      "textLeft": 53,
+      "textRight": 100,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#how-it-works",
+      "tag": "section",
+      "top": 3086,
+      "height": 862,
+      "words": 81,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "01",
+       "size": 96,
+       "tag": "div"
+      },
+      "left": 14,
+      "right": 73,
+      "textLeft": 14,
+      "textRight": 73,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div",
+      "tag": "div",
+      "top": 4049,
+      "height": 158,
+      "words": 14,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Intelligence built in",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 148,
+      "textLeft": 24,
+      "textRight": 148,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div",
+      "tag": "div",
+      "top": 4207,
+      "height": 1180,
+      "words": 91,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Shape Recognition",
+       "size": 22,
+       "tag": "h3"
+      },
+      "left": 24,
+      "right": 81,
+      "textLeft": 24,
+      "textRight": 81,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#faq",
+      "tag": "section",
+      "top": 5487,
+      "height": 761,
+      "words": 39,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Common questions",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 24,
+      "right": 72,
+      "textLeft": 24,
+      "textRight": 117,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section",
+      "tag": "section",
+      "top": 6247,
+      "height": 732,
+      "words": 24,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Start drawing together",
+       "size": 28,
+       "tag": "h2"
+      },
+      "left": 84,
+      "right": 131,
+      "textLeft": 84,
+      "textRight": 131,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer",
+      "tag": "footer",
+      "top": 6979,
+      "height": 417,
+      "words": 34,
+      "media": 0,
+      "middle": 48,
+      "heading": null,
+      "left": 24,
+      "right": 0,
+      "textLeft": 24,
+      "textRight": 0,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 6140,
+      "height": 284
+     }
+    ],
+    "h1s": [],
+    "edgeText": [
+     {
+      "text": "Legal",
+      "side": "right",
+      "px": 7
+     },
+     {
+      "text": "Privacy Policy",
+      "side": "right",
+      "px": 1
+     },
+     {
+      "text": "Terms of Service",
+      "side": "right",
+      "px": 0
+     },
+     {
+      "text": "Cookie Policy",
+      "side": "right",
+      "px": 3
+     }
+    ],
+    "edges": [
+     {
+      "x": 24,
+      "n": 14
+     },
+     {
+      "x": 53,
+      "n": 12
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 14,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 1440,
+   "message": "2 headline(s) wrap past two lines at 1440px: \"Draw.Collaborate.Create.\" → 3 lines (1 words, 88px); \"Start drawing together right now.\" → 3 lines (5 words, 52px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 36px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "eyebrow",
+   "width": 1440,
+   "message": "9 eyebrow/kicker label(s) above headings: \"✦ Now in public beta\" (pill) above \"Draw.Collaborate.Create.\"; \"Features\" (pill) above \"Everything your team needs\"; \"How it works\" (pill) above \"Up and running in 30 seconds\"; \"How it works\" (pill) above \"01\"; \"✦ AI Features\" (pill) above \"Intelligence built in\"",
+   "fix": "Delete them. If the label carried real information, fold it into the headline or the supporting sentence.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "numbering",
+   "width": 1440,
+   "message": "Decorative index numbers: \"01\", \"02\", \"03\"",
+   "fix": "Remove them. If order truly matters, write it into the words (\"First, …\") or use a real <ol>.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "micro-label",
+   "width": 1440,
+   "message": "11 tiny uppercase letter-spaced labels (e.g. \"✦ Now in public beta\", \"Features\", \"How it works\", \"✦ AI Features\").",
+   "fix": "Use sentence-case text at a readable size, or delete the label.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "emoji",
+   "width": 1440,
+   "message": "Emoji in the page: ✦ 💡 🚀 ✨ 🔍",
+   "fix": "Remove. Use words or real imagery.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "shadow",
+   "width": 1440,
+   "message": "5 box-shadow(s) on elements at rest: div → rgba(0, 0, 0, 0.25) 0px 40px 80px -20px | div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px | div → rgba(0, 0, 0, 0.12) 3px 5px 14px 0px",
+   "fix": "Remove. Separate surfaces with a tone step or space. Shadows are for things that really float (menus, dialogs, sticky bars).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "hairline",
+   "width": 1440,
+   "message": "8 thin rule(s)/divider line(s): div 846px | div 52px | section#how-it-works 1440px | div 488px",
+   "fix": "Delete. Separate with space, a tone change, or scale. Lines are only for real tables and form fields.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "outlined-box",
+   "width": 1440,
+   "message": "10 boxes drawn with a 1px outline.",
+   "fix": "Define a surface by its fill (one tone step from the page) or leave the content unboxed.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "contrast",
+   "width": 1440,
+   "message": "Unreadable text: \"Create your first board\" 2.3:1 (#ebebeb on #cc9200)",
+   "fix": "Raise contrast to at least 4.5:1 for text, 3:1 for large display.",
+   "alsoAt": [
+    768
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "size-count",
+   "width": 1440,
+   "message": "16 different font sizes (10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 34, 48, 52, 88, 96).",
+   "fix": "A page needs about five: display, heading, lead, body, small.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "body-size",
+   "width": 1440,
+   "message": "Body text is 14px (the size most of the running text is set in).",
+   "fix": "Body copy 16–20px. Map small sizes from blueprints onto your body step.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "few-pictures",
+   "width": 1440,
+   "message": "Only 0 picture(s) on the page (0 photographs, footage or raster images, 0 interface fragments). Drawings in SVG do not count.",
+   "fix": "Find real pictures of the subject's world with scripts/assets.mjs (photographs, archival images, maps, engravings, footage), download them to assets/ and give them room: a hero picture, one per section that has a subject, a full-width band. At least four, usually six to twelve."
+  },
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "FAIL",
+   "id": "small-text",
+   "width": 1440,
+   "message": "10 text blocks under 13px.",
+   "fix": "Nothing meant to be read goes below 13px.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "off-centre",
+   "width": 1440,
+   "message": "The margins differ: 120px on the left, 177px on the right, at 1440px.",
+   "fix": "Put the navigation and the content on one pair of margins; check for padding on one side only, a scrollbar gutter, or a header on another inset than the page.",
+   "alsoAt": [
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "no-title",
+   "width": 1440,
+   "message": "The page has no visible h1.",
+   "fix": "Give the first screen a clear title in an h1 that says what this is (a name with what it does, the product with what it is for, the event with its date and place).",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "WARN",
+   "id": "ragged-edges",
+   "width": 1440,
+   "message": "Left-aligned text starts at 8 different lines (947px, 144px, 173px, 564px, 120px, 533px, 740px); the three most used hold only 54% of it.",
+   "fix": "Pick two or three anchor lines from the grid and start every heading and paragraph on one of them."
+  },
+  {
+   "level": "FAIL",
+   "id": "covered-text",
+   "width": 1440,
+   "message": "Large text lies under another element at some scroll position: \"Draw.\" (screen 1, 100% hidden); \"Collaborate.\" (screen 1, 100% hidden); \"Create.\" (screen 1, 100% hidden); \"Everything your team needs\" (screen 2, 100% hidden)",
+   "fix": "Nothing may sit on top of a headline or statement. Move the picture, shorten the pinned run, or raise the text above it (z-index) and give it a ground.",
+   "alsoAt": [
+    768,
+    390
+   ]
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 768,
+   "message": "1 headline(s) wrap past two lines at 768px: \"Draw.Collaborate.Create.\" → 3 lines (1 words, 53.8px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 32px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "headline-lines",
+   "width": 390,
+   "message": "3 headline(s) wrap past two lines at 390px: \"Draw.Collaborate.Create.\" → 3 lines (1 words, 42px); \"Everything your team needs\" → 3 lines (4 words, 28px); \"Start drawing together right now.\" → 4 lines (5 words, 28px)",
+   "fix": "Cut words first (a headline is a title, not a sentence). Then give it a wider measure. Lower the size only as a last resort and never below the scale you chose. A real statement paragraph belongs in a <p> or <blockquote> at 24px or less."
+  },
+  {
+   "level": "FAIL",
+   "id": "edge-text",
+   "width": 390,
+   "message": "4 text block(s) sit within 12px of the screen edge: \"Legal\" (7px from the right); \"Privacy Policy\" (1px from the right); \"Terms of Service\" (0px from the right); \"Cookie Policy\" (3px from the right)",
+   "fix": "Keep text inside the page margin (16–20px). Only display type deliberately bled past the edge may touch it."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/before/desktop-fold.jpg",
+   "pages": [
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/before/desktop-page-01.jpg",
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/before/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/before/tablet-fold.jpg",
+   "pages": [
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/before/tablet-page-01.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/before/mobile-fold.jpg",
+   "pages": [
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/before/mobile-page-01.jpg",
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/before/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}

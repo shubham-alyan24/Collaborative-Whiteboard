@@ -1,0 +1,114 @@
+/* App palette, matched to the landing page (components/landing/landing.css) */
+
+:root {
+  /* Base Canvas & Text */
+  --background: #ffffff;
+  --foreground: #0a0a0a;
+
+  /* Muted/Highlight Canvas & Text */
+  --background-highlight: #f2f2f2;
+  --background-muted: #e6e6e6;
+  --foreground-highlighted: #000000;
+  --foreground-muted: #5c5c5c;
+
+  /* Borders */
+  --border: #737373;
+  --border-muted: #d9d9d9;
+
+  /* Brand Colors (with Hover states) */
+  --primary: #d92b21;
+  --primary-hover: #b8231b;
+  --primary-foreground: #ffffff;
+  --secondary: #e6e6e6;
+  --secondary-hover: #d9d9d9;
+  --secondary-foreground: #0a0a0a;
+
+  /* Semantic Colors */
+  --danger: #b8231b;
+  --warning: #8a6100;
+  --success: #1f7a4d;
+  --info: #5c5c5c;
+}
+
+body.dark {
+  /* Base Canvas & Text */
+  --background: #0e0e0e;
+  --foreground: #f2f2f2;
+
+  /* Muted/Highlight Canvas & Text */
+  --background-highlight: #1b1b1b;
+  --background-muted: #070707;
+  --foreground-highlighted: #ffffff;
+  --foreground-muted: #a6a6a6;
+
+  /* Borders */
+  --border: #5c5c5c;
+  --border-muted: #333333;
+
+  /* Brand Colors (with Hover states) */
+  --primary: #d92b21;
+  --primary-hover: #ee3a2f;
+  --primary-foreground: #ffffff;
+  --secondary: #262626;
+  --secondary-hover: #333333;
+  --secondary-foreground: #f2f2f2;
+
+  /* Semantic Colors */
+  --danger: #ff6b61;
+  --warning: #e0b04c;
+  --success: #5cc08a;
+  --info: #a6a6a6;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+
+  --color-background-muted: var(--background-muted);
+  --color-background-highlight: var(--background-highlight);
+  --color-foreground-highlighted: var(--foreground-highlighted);
+  --color-foreground-muted: var(--foreground-muted);
+
+  --color-border: var(--border);
+  --color-border-muted: var(--border-muted);
+
+  --color-primary: var(--primary);
+  --color-primary-hover: var(--primary-hover);
+  --color-primary-foreground: var(--primary-foreground);
+
+  --color-secondary: var(--secondary);
+  --color-secondary-hover: var(--secondary-hover);
+  --color-secondary-foreground: var(--secondary-foreground);
+
+  --color-danger: var(--danger);
+  --color-warning: var(--warning);
+  --color-success: var(--success);
+  --color-info: var(--info);
+
+  /* shadcn/ui names, used by components/ui */
+  --color-destructive: var(--danger);
+  --color-accent: var(--background-highlight);
+  --color-accent-foreground: var(--foreground);
+  --color-input: var(--border-muted);
+  --color-ring: var(--primary);
+}
+
+/* Landing radii: 8px panels, 6px controls */
+@theme {
+  --radius-xl: 0.5rem;
+  --radius-2xl: 0.5rem;
+  --radius-3xl: 0.5rem;
+}
+
+@layer base {
+  body {
+    background: var(--background);
+    color: var(--foreground);
+    letter-spacing: -0.01em;
+    -webkit-font-smoothing: antialiased;
+  }
+  ::selection {
+    background: var(--primary);
+    color: var(--primary-foreground);
+  }
+}

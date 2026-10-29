@@ -1,0 +1,2149 @@
+{
+ "url": "http://localhost:5174/",
+ "at": "2026-10-20T15:38:06.818Z",
+ "allow": [],
+ "viewports": [
+  {
+   "width": 1440,
+   "height": 900,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.54,
+    0.48,
+    0.45,
+    0.39,
+    0.54,
+    0.36,
+    0.52,
+    0.71
+   ],
+   "motion": {
+    "elements": 53,
+    "css": 3,
+    "transitions": 50,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "page": {
+     "height": 6976,
+     "screens": 7.8,
+     "words": 552,
+     "img": 4,
+     "video": 0,
+     "canvas": 1,
+     "svg": 26,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 9,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 5,
+     "pictureSamples": [
+      "homer-blackboard-detail.jpg",
+      "homer-blackboard.jpg",
+      "geometry-lessons.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A whiteboard that snaps your shapes",
+     "words": 6,
+     "chars": 35,
+     "lines": 2,
+     "size": 96,
+     "vw": 6.7,
+     "font": "Schibsted Grotesk",
+     "weight": 800,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "left",
+     "widthRatio": 0.7,
+     "top": 163,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A whiteboard that snaps your shapes",
+     "words": 6,
+     "lines": 2,
+     "size": 96,
+     "font": "Schibsted Grotesk"
+    },
+    "headings": [
+     {
+      "text": "A whiteboard that snaps your shapes",
+      "words": 6,
+      "chars": 35,
+      "lines": 2,
+      "size": 96,
+      "vw": 6.7,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.7,
+      "top": 163,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Four shapes it knows",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 1172,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Everything on the toolbar",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 2237,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "a² + b² = c²",
+      "words": 5,
+      "chars": 12,
+      "lines": 1,
+      "size": 28,
+      "vw": 1.9,
+      "font": "Schibsted Grotesk",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.27,
+      "top": 2611,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "First, start a board",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.34,
+      "top": 3588,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What’s new, what’s next",
+      "words": 4,
+      "chars": 23,
+      "lines": 2,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 4364,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Questions",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 64,
+      "vw": 4.4,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 5391,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your first board",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 96,
+      "vw": 6.7,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.38,
+      "top": 6410,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Schibsted Grotesk",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      14,
+      15,
+      19,
+      26,
+      64,
+      96
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Schibsted Grotesk",
+      "size": 19,
+      "leading": 1.45,
+      "weight": 400,
+      "tracking": -0.01,
+      "contrast": 17.7
+     },
+     "measureChars": 67,
+     "max": {
+      "size": 96,
+      "vw": 6.7,
+      "font": "Schibsted Grotesk",
+      "text": "A whiteboard that snaps your shapes"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#d92b21",
+       "top": 442,
+       "hsl": {
+        "h": 3,
+        "s": 0.74,
+        "l": 0.49
+       }
+      },
+      {
+       "color": "#f2f2f2",
+       "top": 1164,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#0a0a0a",
+       "top": 3516,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.61
+      },
+      {
+       "color": "#5c5c5c",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.09
+      },
+      {
+       "color": "#a8a8a8",
+       "share": 0
+      },
+      {
+       "color": "#d92b21",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": 6,
+     "height": 46,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Start a board",
+      "Start a board"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 1,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 11,
+     "boxRadius": 8,
+     "squareMedia": 3,
+     "roundedMedia": 2,
+     "mediaRadius": 8,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 6,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 2424
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 0.19
+     },
+     {
+      "type": "canvas",
+      "ratio": 0.19
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "schibsted grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 1440,
+     "h": 900
+    },
+    "pageH": 6976,
+    "margins": {
+     "left": 40,
+     "right": 55
+    },
+    "sections": [
+     {
+      "sel": "section.lw-hero",
+      "tag": "section",
+      "top": 64,
+      "height": 900,
+      "words": 53,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "A whiteboard that snaps your shapes",
+       "size": 96,
+       "tag": "h1"
+      },
+      "left": 40,
+      "right": 164,
+      "textLeft": 40,
+      "textRight": 576,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#shapes.lw-shapes.lw-grid",
+      "tag": "section",
+      "top": 1164,
+      "height": 873,
+      "words": 81,
+      "media": 1,
+      "middle": 138,
+      "heading": {
+       "text": "Four shapes it knows",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 40,
+      "right": 55,
+      "textLeft": 732,
+      "textRight": 55,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tools.lw-tools.lw-grid",
+      "tag": "section",
+      "top": 2237,
+      "height": 1031,
+      "words": 158,
+      "media": 1,
+      "middle": 50,
+      "heading": {
+       "text": "Pen",
+       "size": 19,
+       "tag": "h3"
+      },
+      "left": 64,
+      "right": 48,
+      "textLeft": 64,
+      "textRight": 75,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#sharing.lw-share",
+      "tag": "section",
+      "top": 3516,
+      "height": 648,
+      "words": 35,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "First, start a board",
+       "size": 64,
+       "tag": "h2"
+      },
+      "left": 40,
+      "right": 40,
+      "textLeft": 40,
+      "textRight": 176,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.lw-log.lw-grid",
+      "tag": "section",
+      "top": 4364,
+      "height": 828,
+      "words": 90,
+      "media": 1,
+      "middle": 138,
+      "heading": {
+       "text": "Next",
+       "size": 19,
+       "tag": "h3"
+      },
+      "left": 40,
+      "right": 155,
+      "textLeft": 40,
+      "textRight": 243,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": true
+     },
+     {
+      "sel": "section#faq.lw-faq.lw-grid",
+      "tag": "section",
+      "top": 5391,
+      "height": 407,
+      "words": 48,
+      "media": 0,
+      "middle": 178,
+      "heading": null,
+      "left": 40,
+      "right": 221,
+      "textLeft": 62,
+      "textRight": 221,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.lw-start.lw-grid",
+      "tag": "section",
+      "top": 5998,
+      "height": 720,
+      "words": 43,
+      "media": 0,
+      "middle": 169,
+      "heading": {
+       "text": "Your first board",
+       "size": 96,
+       "tag": "h2"
+      },
+      "left": 40,
+      "right": 352,
+      "textLeft": 40,
+      "textRight": 352,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.lw-foot",
+      "tag": "footer",
+      "top": 6718,
+      "height": 257,
+      "words": 29,
+      "media": 0,
+      "middle": 245,
+      "heading": null,
+      "left": 40,
+      "right": 40,
+      "textLeft": 40,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 3252,
+      "height": 324
+     },
+     {
+      "top": 5800,
+      "height": 444
+     }
+    ],
+    "h1s": [
+     {
+      "text": "A whiteboard that snaps your shapes",
+      "size": 96,
+      "top": 163,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 40,
+      "n": 11
+     },
+     {
+      "x": 64,
+      "n": 4
+     },
+     {
+      "x": 520,
+      "n": 4
+     },
+     {
+      "x": 976,
+      "n": 4
+     },
+     {
+      "x": 732,
+      "n": 3
+     },
+     {
+      "x": 772,
+      "n": 1
+     }
+    ],
+    "leftBlocks": 27,
+    "bodySize": 26,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0.15,
+    "voidBox": {
+     "x": 900,
+     "y": 120,
+     "w": 540,
+     "h": 360
+    }
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 768,
+   "height": 1024,
+   "load": "load",
+   "screens": 8,
+   "filled": [
+    0.59,
+    0.45,
+    0.48,
+    0.56,
+    0.65,
+    0.41,
+    0.72,
+    0.63
+   ],
+   "motion": {
+    "elements": 52,
+    "css": 3,
+    "transitions": 49,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "page": {
+     "height": 7345,
+     "screens": 7.2,
+     "words": 552,
+     "img": 4,
+     "video": 0,
+     "canvas": 1,
+     "svg": 26,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 9,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 5,
+     "pictureSamples": [
+      "homer-blackboard-detail.jpg",
+      "homer-blackboard.jpg",
+      "geometry-lessons.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A whiteboard that snaps your shapes",
+     "words": 6,
+     "chars": 35,
+     "lines": 2,
+     "size": 63.9,
+     "vw": 8.3,
+     "font": "Schibsted Grotesk",
+     "weight": 800,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.87,
+     "top": 177,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A whiteboard that snaps your shapes",
+     "words": 6,
+     "lines": 2,
+     "size": 63.9,
+     "font": "Schibsted Grotesk"
+    },
+    "headings": [
+     {
+      "text": "A whiteboard that snaps your shapes",
+      "words": 6,
+      "chars": 35,
+      "lines": 2,
+      "size": 63.9,
+      "vw": 8.3,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.87,
+      "top": 177,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Four shapes it knows",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "right",
+      "widthRatio": 0.46,
+      "top": 1216,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Everything on the toolbar",
+      "words": 4,
+      "chars": 25,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.94,
+      "top": 2230,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "a² + b² = c²",
+      "words": 5,
+      "chars": 12,
+      "lines": 1,
+      "size": 28,
+      "vw": 3.6,
+      "font": "Schibsted Grotesk",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.39,
+      "top": 3065,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "First, start a board",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.44,
+      "top": 3962,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What’s new, what’s next",
+      "words": 4,
+      "chars": 23,
+      "lines": 2,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 4747,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Questions",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 45.4,
+      "vw": 5.9,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 5660,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your first board",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 63.9,
+      "vw": 8.3,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.46,
+      "top": 6707,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Schibsted Grotesk",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      15,
+      18,
+      23,
+      45,
+      64
+     ],
+     "sizeCount": 6,
+     "notLoaded": [],
+     "body": {
+      "font": "Schibsted Grotesk",
+      "size": 23,
+      "leading": 1.3,
+      "weight": 400,
+      "tracking": -0.015,
+      "contrast": 19.8
+     },
+     "measureChars": 31,
+     "max": {
+      "size": 63.9,
+      "vw": 8.3,
+      "font": "Schibsted Grotesk",
+      "text": "A whiteboard that snaps your shapes"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#d92b21",
+       "top": 556,
+       "hsl": {
+        "h": 3,
+        "s": 0.74,
+        "l": 0.49
+       }
+      },
+      {
+       "color": "#0a0a0a",
+       "top": 3890,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      },
+      {
+       "color": "#f2f2f2",
+       "top": 3890,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.95
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.61
+      },
+      {
+       "color": "#5c5c5c",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.09
+      },
+      {
+       "color": "#a8a8a8",
+       "share": 0
+      },
+      {
+       "color": "#d92b21",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": 6,
+     "height": 46,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Start a board",
+      "Start a board"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 1,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 11,
+     "boxRadius": 8,
+     "squareMedia": 3,
+     "roundedMedia": 2,
+     "mediaRadius": 8,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 6,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 2452
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 0.23
+     },
+     {
+      "type": "canvas",
+      "ratio": 0.23
+     }
+    ],
+    "nav": {
+     "links": 6,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "schibsted grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 768,
+     "h": 1024
+    },
+    "pageH": 7345,
+    "margins": {
+     "left": 22,
+     "right": 29
+    },
+    "sections": [
+     {
+      "sel": "section.lw-hero",
+      "tag": "section",
+      "top": 64,
+      "height": 1024,
+      "words": 53,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "A whiteboard that snaps your shapes",
+       "size": 64,
+       "tag": "h1"
+      },
+      "left": 22,
+      "right": 57,
+      "textLeft": 22,
+      "textRight": 198,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#shapes.lw-shapes.lw-grid",
+      "tag": "section",
+      "top": 1208,
+      "height": 902,
+      "words": 81,
+      "media": 1,
+      "middle": 74,
+      "heading": {
+       "text": "Four shapes it knows",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 29,
+      "textLeft": 390,
+      "textRight": 29,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#tools.lw-tools.lw-grid",
+      "tag": "section",
+      "top": 2230,
+      "height": 1491,
+      "words": 158,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Pen",
+       "size": 18,
+       "tag": "h3"
+      },
+      "left": 22,
+      "right": 30,
+      "textLeft": 22,
+      "textRight": 40,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#sharing.lw-share",
+      "tag": "section",
+      "top": 3890,
+      "height": 737,
+      "words": 35,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "First, start a board",
+       "size": 45,
+       "tag": "h2"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 58,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.lw-log.lw-grid",
+      "tag": "section",
+      "top": 4747,
+      "height": 793,
+      "words": 87,
+      "media": 1,
+      "middle": 74,
+      "heading": {
+       "text": "Next",
+       "size": 18,
+       "tag": "h3"
+      },
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 62,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#faq.lw-faq.lw-grid",
+      "tag": "section",
+      "top": 5660,
+      "height": 379,
+      "words": 48,
+      "media": 0,
+      "middle": 40,
+      "heading": null,
+      "left": 22,
+      "right": 53,
+      "textLeft": 44,
+      "textRight": 53,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.lw-start.lw-grid",
+      "tag": "section",
+      "top": 6159,
+      "height": 819,
+      "words": 43,
+      "media": 0,
+      "middle": 57,
+      "heading": {
+       "text": "Create your account",
+       "size": 20,
+       "tag": "h3"
+      },
+      "left": 22,
+      "right": 104,
+      "textLeft": 22,
+      "textRight": 104,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.lw-foot",
+      "tag": "footer",
+      "top": 6978,
+      "height": 367,
+      "words": 29,
+      "media": 0,
+      "middle": 42,
+      "heading": null,
+      "left": 22,
+      "right": 22,
+      "textLeft": 22,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 6040,
+      "height": 404
+     }
+    ],
+    "h1s": [
+     {
+      "text": "A whiteboard that snaps your shapes",
+      "size": 64,
+      "top": 177,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 22,
+      "n": 11
+     },
+     {
+      "x": 412,
+      "n": 7
+     },
+     {
+      "x": 46,
+      "n": 6
+     },
+     {
+      "x": 390,
+      "n": 2
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 23,
+    "stage": false,
+    "explains": true,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  },
+  {
+   "width": 390,
+   "height": 844,
+   "load": "load",
+   "screens": 11,
+   "filled": [
+    0.7,
+    0.6,
+    0.47,
+    0.48,
+    0.63,
+    0.45,
+    0.69,
+    0.33,
+    0.63,
+    0.62,
+    0.5
+   ],
+   "motion": {
+    "elements": 50,
+    "css": 2,
+    "transitions": 48,
+    "scripted": 0,
+    "videos": 0,
+    "playingVideos": 0
+   },
+   "metrics": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "page": {
+     "height": 9000,
+     "screens": 10.7,
+     "words": 548,
+     "img": 4,
+     "video": 0,
+     "canvas": 1,
+     "svg": 26,
+     "sections": 7,
+     "horizontalOverflow": 0,
+     "overflowCulprits": [],
+     "uiFragments": 9,
+     "uiAbuse": false,
+     "realPictures": 3,
+     "videoCount": 0,
+     "uiPictures": 5,
+     "pictureSamples": [
+      "homer-blackboard-detail.jpg",
+      "homer-blackboard.jpg",
+      "geometry-lessons.jpg"
+     ],
+     "blendText": 0,
+     "sideScrollers": 0,
+     "brokenImages": [],
+     "emoji": [],
+     "videosNoPoster": 0
+    },
+    "hero": {
+     "text": "A whiteboard that snaps your shapes",
+     "words": 6,
+     "chars": 35,
+     "lines": 2,
+     "size": 37.4,
+     "vw": 9.6,
+     "font": "Schibsted Grotesk",
+     "weight": 800,
+     "tracking": -0.045,
+     "leading": 0.92,
+     "upper": false,
+     "italic": false,
+     "mono": false,
+     "align": "left",
+     "position": "center",
+     "widthRatio": 0.9,
+     "top": 112,
+     "tag": "h1",
+     "kind": "heading"
+    },
+    "h1": {
+     "text": "A whiteboard that snaps your shapes",
+     "words": 6,
+     "lines": 2,
+     "size": 37.4,
+     "font": "Schibsted Grotesk"
+    },
+    "headings": [
+     {
+      "text": "A whiteboard that snaps your shapes",
+      "words": 6,
+      "chars": 35,
+      "lines": 2,
+      "size": 37.4,
+      "vw": 9.6,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 112,
+      "tag": "h1",
+      "kind": "heading"
+     },
+     {
+      "text": "Four shapes it knows",
+      "words": 4,
+      "chars": 20,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 1513,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Everything on the toolbar",
+      "words": 4,
+      "chars": 25,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 2355,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "a² + b² = c²",
+      "words": 5,
+      "chars": 12,
+      "lines": 1,
+      "size": 28,
+      "vw": 7.2,
+      "font": "Schibsted Grotesk",
+      "weight": 600,
+      "tracking": -0.02,
+      "leading": 1.15,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.74,
+      "top": 3508,
+      "tag": "p",
+      "kind": "statement"
+     },
+     {
+      "text": "First, start a board",
+      "words": 4,
+      "chars": 20,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "left",
+      "widthRatio": 0.66,
+      "top": 5532,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "What’s new, what’s next",
+      "words": 4,
+      "chars": 23,
+      "lines": 2,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 5880,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Questions",
+      "words": 1,
+      "chars": 9,
+      "lines": 1,
+      "size": 33.3,
+      "vw": 8.5,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.04,
+      "leading": 0.96,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7385,
+      "tag": "h2",
+      "kind": "heading"
+     },
+     {
+      "text": "Your first board",
+      "words": 3,
+      "chars": 16,
+      "lines": 2,
+      "size": 50.7,
+      "vw": 13,
+      "font": "Schibsted Grotesk",
+      "weight": 800,
+      "tracking": -0.045,
+      "leading": 0.92,
+      "upper": false,
+      "italic": false,
+      "mono": false,
+      "align": "left",
+      "position": "center",
+      "widthRatio": 0.9,
+      "top": 7993,
+      "tag": "h2",
+      "kind": "heading"
+     }
+    ],
+    "headingSummary": {
+     "count": 8,
+     "maxLines": 2,
+     "over2Lines": 0,
+     "statements": 1,
+     "centered": 0,
+     "medianWords": 4,
+     "mixedFontHeadings": 0
+    },
+    "type": {
+     "families": [
+      {
+       "family": "Schibsted Grotesk",
+       "share": 1,
+       "mono": false
+      }
+     ],
+     "familyCount": 1,
+     "sizes": [
+      13,
+      14,
+      15,
+      17,
+      19,
+      20,
+      33,
+      37,
+      51
+     ],
+     "sizeCount": 9,
+     "notLoaded": [],
+     "body": {
+      "font": "Schibsted Grotesk",
+      "size": 17,
+      "leading": 1.3,
+      "weight": 400,
+      "tracking": -0.015,
+      "contrast": 19.8
+     },
+     "measureChars": 34,
+     "max": {
+      "size": 50.7,
+      "vw": 13,
+      "font": "Schibsted Grotesk",
+      "text": "Your first board"
+     },
+     "monoShare": 0,
+     "monoProseShare": 0,
+     "monoFamilies": [],
+     "monoSamples": [],
+     "microLabels": 0,
+     "microLabelShare": 0,
+     "microSamples": [],
+     "upperShare": 0,
+     "centerShare": 0.01,
+     "smallText": 0
+    },
+    "eyebrows": [],
+    "numbered": [],
+    "color": {
+     "bodyBg": "#ffffff",
+     "bodyBgHsl": {
+      "h": 0,
+      "s": 0,
+      "l": 1
+     },
+     "dark": false,
+     "sectionBgs": [
+      {
+       "color": "#ffffff",
+       "top": 0,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 1
+       }
+      },
+      {
+       "color": "#d92b21",
+       "top": 387,
+       "hsl": {
+        "h": 3,
+        "s": 0.74,
+        "l": 0.49
+       }
+      },
+      {
+       "color": "#f2f2f2",
+       "top": 1027,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.95
+       }
+      },
+      {
+       "color": "#0a0a0a",
+       "top": 5484,
+       "hsl": {
+        "h": 0,
+        "s": 0,
+        "l": 0.04
+       }
+      }
+     ],
+     "textColors": [
+      {
+       "color": "#0a0a0a",
+       "share": 0.61
+      },
+      {
+       "color": "#5c5c5c",
+       "share": 0.3
+      },
+      {
+       "color": "#ffffff",
+       "share": 0.09
+      },
+      {
+       "color": "#d92b21",
+       "share": 0
+      }
+     ],
+     "button": {
+      "bg": "#ffffff",
+      "hsl": {
+       "h": 0,
+       "s": 0,
+       "l": 1
+      },
+      "fg": "#ffffff"
+     },
+     "lowContrast": []
+    },
+    "buttons": {
+     "count": 7,
+     "inHero": 2,
+     "radius": 6,
+     "height": 46,
+     "withShadow": 0,
+     "withGradient": 0,
+     "mono": 0,
+     "upper": 0,
+     "heroLabels": [
+      "Start a board",
+      "Start a board"
+     ]
+    },
+    "surfaces": {
+     "shadowStatic": 0,
+     "shadowOverlay": 1,
+     "shadowSamples": [],
+     "gradients": 0,
+     "scrims": 0,
+     "gradientSamples": [],
+     "gradientText": 0,
+     "hairlines": 0,
+     "hairlineSamples": [],
+     "outlinedBoxes": 0,
+     "dashed": 0,
+     "blurred": 0,
+     "roundedBoxes": 11,
+     "boxRadius": 8,
+     "squareMedia": 3,
+     "roundedMedia": 2,
+     "mediaRadius": 8,
+     "textShadow": 0,
+     "cardRows": [
+      {
+       "count": 6,
+       "iconTopped": false,
+       "rounded": false,
+       "top": 2666
+      }
+     ]
+    },
+    "heroMedia": [
+     {
+      "type": "bg-image",
+      "ratio": 0.4
+     },
+     {
+      "type": "canvas",
+      "ratio": 0.4
+     }
+    ],
+    "nav": {
+     "links": 2,
+     "fixed": false,
+     "height": 64,
+     "floatingPill": false,
+     "blur": false
+    },
+    "fontsLoaded": [
+     "schibsted grotesk"
+    ]
+   },
+   "layout": {
+    "viewport": {
+     "w": 390,
+     "h": 844
+    },
+    "pageH": 9000,
+    "margins": {
+     "left": 20,
+     "right": 20
+    },
+    "sections": [
+     {
+      "sel": "section.lw-hero",
+      "tag": "section",
+      "top": 64,
+      "height": 843,
+      "words": 53,
+      "media": 2,
+      "middle": 0,
+      "heading": {
+       "text": "A whiteboard that snaps your shapes",
+       "size": 37,
+       "tag": "h1"
+      },
+      "left": 17,
+      "right": 0,
+      "textLeft": 20,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": true,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#shapes.lw-shapes.lw-grid",
+      "tag": "section",
+      "top": 1027,
+      "height": 1208,
+      "words": 81,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "Four shapes it knows",
+       "size": 33,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 23,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "p.lw-tools__intro.lw-lead",
+      "tag": "p",
+      "top": 2443,
+      "height": 159,
+      "words": 26,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 111,
+      "textLeft": 20,
+      "textRight": 111,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.lw-cells",
+      "tag": "div",
+      "top": 2666,
+      "height": 2104,
+      "words": 132,
+      "media": 1,
+      "middle": 0,
+      "heading": {
+       "text": "a² + b² = c²",
+       "size": 28,
+       "tag": "p"
+      },
+      "left": 44,
+      "right": 38,
+      "textLeft": 44,
+      "textRight": 38,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#sharing.lw-share",
+      "tag": "section",
+      "top": 4938,
+      "height": 822,
+      "words": 35,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 35,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "div.lw-log__list",
+      "tag": "div",
+      "top": 5880,
+      "height": 842,
+      "words": 73,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Next",
+       "size": 17,
+       "tag": "h3"
+      },
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 20,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "figure.lw-log__picture.is-in",
+      "tag": "figure",
+      "top": 6778,
+      "height": 487,
+      "words": 11,
+      "media": 1,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 20,
+      "textLeft": 20,
+      "textRight": 46,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section#faq.lw-faq.lw-grid",
+      "tag": "section",
+      "top": 7385,
+      "height": 432,
+      "words": 48,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 20,
+      "textLeft": 42,
+      "textRight": 22,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "section.lw-start.lw-grid",
+      "tag": "section",
+      "top": 7937,
+      "height": 709,
+      "words": 43,
+      "media": 0,
+      "middle": 0,
+      "heading": {
+       "text": "Your first board",
+       "size": 51,
+       "tag": "h2"
+      },
+      "left": 20,
+      "right": 39,
+      "textLeft": 20,
+      "textRight": 39,
+      "fullBleed": false,
+      "footer": false,
+      "hero": false,
+      "continues": true,
+      "pinned": false
+     },
+     {
+      "sel": "footer.lw-foot",
+      "tag": "footer",
+      "top": 8646,
+      "height": 355,
+      "words": 29,
+      "media": 0,
+      "middle": 0,
+      "heading": null,
+      "left": 20,
+      "right": 37,
+      "textLeft": 20,
+      "textRight": 37,
+      "fullBleed": false,
+      "footer": true,
+      "hero": false,
+      "continues": false,
+      "pinned": false
+     }
+    ],
+    "gaps": [
+     {
+      "top": 4756,
+      "height": 260
+     }
+    ],
+    "h1s": [
+     {
+      "text": "A whiteboard that snaps your shapes",
+      "size": 37,
+      "top": 112,
+      "firstScreen": true
+     }
+    ],
+    "edgeText": [],
+    "edges": [
+     {
+      "x": 20,
+      "n": 14
+     },
+     {
+      "x": 44,
+      "n": 12
+     }
+    ],
+    "leftBlocks": 26,
+    "bodySize": 17,
+    "stage": false,
+    "explains": false,
+    "slivers": [],
+    "voidShare": 0,
+    "voidBox": null
+   },
+   "app": null,
+   "consoleErrors": []
+  }
+ ],
+ "findings": [
+  {
+   "level": "WARN",
+   "id": "no-footage",
+   "width": 1440,
+   "message": "No video anywhere on the page.",
+   "fix": "Look for one honest clip with scripts/assets.mjs --video (the place, the material, the process) and use it as a muted loop with a poster frame. Defend its absence only if no clip fits the subject."
+  },
+  {
+   "level": "WARN",
+   "id": "blank-gap",
+   "width": 1440,
+   "message": "A 444px stretch at 5800px holds nothing.",
+   "fix": "Check that it is a deliberate rest (once per page at most); otherwise close it to the normal section gap."
+  }
+ ],
+ "images": [
+  {
+   "viewport": "desktop",
+   "width": 1440,
+   "fold": "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/inspect/desktop-fold.jpg",
+   "pages": [
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/inspect/desktop-page-01.jpg",
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/inspect/desktop-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "tablet",
+   "width": 768,
+   "fold": "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/inspect/tablet-fold.jpg",
+   "pages": [
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/inspect/tablet-page-01.jpg",
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/inspect/tablet-page-02.jpg"
+   ],
+   "film": []
+  },
+  {
+   "viewport": "mobile",
+   "width": 390,
+   "fold": "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/inspect/mobile-fold.jpg",
+   "pages": [
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/inspect/mobile-page-01.jpg",
+    "/home/uppercase/Workspace/Projects/Whiteboard/frontend/.taste-skill/inspect/mobile-page-02.jpg"
+   ],
+   "film": []
+  }
+ ]
+}
