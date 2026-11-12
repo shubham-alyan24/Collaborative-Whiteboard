@@ -15,7 +15,7 @@ A real-time collaborative whiteboard where multiple people can draw, sketch and 
 - **Notifications**: in-app notifications for access requests and their results.
 - **Authentication**: email/password with JWT, Google and GitHub OAuth, password reset by email.
 - **Account settings**: change your profile and avatar, change your password, delete your account.
-- **Persistence**: boards auto-save to MongoDB. Images and board thumbnails are stored on Cloudinary.
+- **Persistence**: boards auto-save to MongoDB. Images and board thumbnails are stored on Cloudinary .
 - **Dark mode**: theme toggle.
 
 ---
